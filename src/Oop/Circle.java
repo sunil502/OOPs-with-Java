@@ -1,4 +1,4 @@
-package oop;
+package Oop;
 
 class Circles {
     public double radius;

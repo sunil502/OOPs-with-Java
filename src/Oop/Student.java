@@ -1,4 +1,4 @@
-package oop;
+package Oop;
 
 class students{
     public int roll;
